@@ -39,11 +39,11 @@ Ensure you have the following installed:
 
 | Method | Endpoint      | Description        |
 |--------|--------------|--------------------|
-| GET    | `/items`     | Get all items     |
-| GET    | `/items/{id}` | Get item by ID    |
-| POST   | `/items`     | Create new item   |
-| PUT    | `/items/{id}` | Update item by ID |
-| DELETE | `/items/{id}` | Delete item by ID |
+| GET    | `/posts`     | Get all items     |
+| GET    | `/posts/{id}` | Get item by ID    |
+| POST   | `/posts`     | Create new item   |
+| PUT    | `/posts/{id}` | Update item by ID |
+| DELETE | `/posts/{id}` | Delete item by ID |
 
 ## Acknowledgments
 - Inspired by [this YouTube tutorial](https://www.youtube.com/watch?v=lf_kiH_NPvM&list=WL&index=9&t=705s)
